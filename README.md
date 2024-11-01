@@ -1,1 +1,1 @@
-Basketball scheduler app frontend
+Basketball scheduler app backend
